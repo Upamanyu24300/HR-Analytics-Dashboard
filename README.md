@@ -1,66 +1,46 @@
-# Power BI HR Analytics Dashboard
+# Power BI Project
+
+This project is a comprehensive Power BI dashboard that was developed by following the tutorial provided in the video [Power BI Tutorial](https://www.youtube.com/watch?v=j4xlVLgsmNQ). The goal of this project is to demonstrate data visualization techniques, dashboard creation, and interactive report generation using Power BI.
 
 ## Project Description
 
-This project is a Power BI HR analytics dashboard that provides insights into employee attrition. The dashboard visualizes key HR metrics and helps identify factors contributing to employee turnover. The project is based on a tutorial by Rishabh Mishra, which walks through the process of creating the dashboard from scratch.
+In this Power BI project, we focus on the following:
 
-## Project Image
+- Importing and transforming data using Power Query.
+- Building interactive dashboards with multiple visuals (charts, tables, and filters).
+- Enhancing data insights using Power BI features like slicers, drill-throughs, and custom visuals.
+- Publishing the Power BI report for sharing and collaboration.
 
-![Project Image](project_image.png)
+This project is perfect for anyone looking to improve their Power BI skills and understand how to visualize data effectively.
 
 ## Tech Stack
 
-- **Power BI**: Used for creating the interactive dashboard and visualizations.
-- **YouTube**: The source of the tutorial and data for this project.
+The following technologies and tools were used to build the project:
 
-## Logos
+- **Power BI** - The primary tool used for creating the dashboards and reports.
+- **DAX** - Data Analysis Expressions were used to perform calculations and create custom metrics.
 
-<p align="center">
-  <img src="https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="Power BI">
-  <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube">
-</p>
+## Project Image
 
-## Features
+![Project Image](./project_image.png)
 
-- **Department-level filters**: Allows for filtering data by department.
-- **Key Performance Indicators (KPIs)**: Displays important metrics such as:
-    - Number of employees
-    - Attrition
-    - Attrition rate
-    - Average age
-    - Average salary
-    - Years at the company
-- **Charts and Visualizations**: Includes a variety of charts to visualize data, such as:
-    - Attrition by education field (Donut chart)
-    - Attrition by age group (Stacked column chart)
-    - Job satisfaction score (Matrix table)
-    - Attrition by salary slab (Bar chart)
-    - Attrition by years at company (Area chart)
-    - Attrition by job role (Bar chart)
-    - Gender distribution (Treemap)
+## Setup Instructions
 
-## Data Cleaning and Transformation
+1. Download and install [Power BI Desktop](https://powerbi.microsoft.com/downloads/).
+2. Clone this repository to your local machine.
+3. Open the `Power BI` project file (`.pbix`) in Power BI Desktop.
 
-The project involved several data cleaning and transformation steps using Power Query Editor, including:
+## Usage
 
-- Removing null values
-- Removing duplicate rows
-- Correcting spelling errors
-- Setting appropriate data types for columns
+- Load the `.pbix` file into Power BI Desktop.
+- You will be able to interact with the dashboard by filtering, drilling down, and exploring the data.
 
-## Dashboard Creation
+## Tech Logos
 
-The dashboard was created in Power BI by:
+Below are the logos for the technologies used in this project:
 
-- Creating calculated columns using DAX formulas
-- Formatting visuals, including cards, charts, and tables
-- Adding background images and setting visual borders
-- Adding a department-level slicer for interactive filtering
-- Adding a main title for the dashboard
+![Power BI Logo](https://upload.wikimedia.org/wikipedia/commons/a/a1/Power_BI_Logo.svg)
 
-## How to Use
+---
 
-1.  **Clone the repository.**
-2.  **Open the .pbix file in Power BI Desktop.**
-3.  **Explore the dashboard and interact with the visuals.**
-
+If you have any questions or need further assistance, feel free to reach out!

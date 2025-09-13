@@ -39,7 +39,7 @@ The following technologies and tools were used to build the project:
 
 Below are the logos for the technologies used in this project:
 
-![Power BI Logo](https://upload.wikimedia.org/wikipedia/commons/a/a1/Power_BI_Logo.svg)
+![Power BI Logo](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 
 ---
 
